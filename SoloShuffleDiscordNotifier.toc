@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: Solo Shuffle Discord Notifier
+## Notes: Notifies you via Discord when your Solo Shuffle queue pops.
+## Version: 1.0
+## Author: Edgardo Carreras
+## SavedVariables: SoloShuffleNotifierDB
+
+SoloShuffleDiscordNotifier.lua
